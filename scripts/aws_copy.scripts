@@ -1,0 +1,2 @@
+aws s3 cp CAvideos.csv s3://abhiraj-yt-data-pipeline-bronze/youtube/raw_statistics/region=ca/
+aws s3 cp CA_category_id.json s3://abhiraj-yt-data-pipeline-bronze/youtube/raw_statistics_reference_data/region=ca/

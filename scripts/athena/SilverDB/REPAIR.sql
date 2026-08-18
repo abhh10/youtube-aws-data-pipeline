@@ -1,0 +1,1 @@
+MSCK REPAIR TABLE video_statistics_v2;
